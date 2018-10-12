@@ -1,2 +1,1 @@
-# icmt2019
-Website for ICMT 2019
+This is the repo for the ICMT 2019 website.
